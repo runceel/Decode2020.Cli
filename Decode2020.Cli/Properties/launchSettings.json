@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Decode2020.Cli": {
+      "commandName": "Project",
+      "commandLineArgs": "show A01"
+    }
+  }
+}
