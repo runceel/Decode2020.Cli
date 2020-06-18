@@ -40,4 +40,4 @@ $ decode20 list Azure
 $ decode20 show A01
 ```
 
-![](images/list_with_keyword.png)
+![](images/show.png)
